@@ -1,0 +1,21 @@
+# Python API
+fastapi
+loguru
+uvicorn
+locust
+pycocotools
+zipp
+ultralytics
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-prometheus
+opentelemetry-exporter-jaeger
+python-dotenv
+fastapi
+pydantic
+uvicorn
+python-decouple
+python-multipart
+pyflakes
+
+# Requirements for models
