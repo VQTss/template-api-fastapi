@@ -1,11 +1,21 @@
 # Tên models 
 # Cấu trúc thư mục
 ```
-project
-|── src
-        app
-        pages
-        style
+template-api
+├── config
+├── docker
+├── handler
+├── logs
+├── models
+├──── models.py
+├── prometheus
+├── trace
+├── utils
+├── weights
+├── .env
+├── app.py
+├── requirements.txt
+
 
 ```
 # Mục đích
