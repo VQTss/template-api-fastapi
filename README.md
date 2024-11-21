@@ -2,7 +2,7 @@
 # Cấu trúc thư mục
 ```
 project
-    src
+|── src
         app
         pages
         style
