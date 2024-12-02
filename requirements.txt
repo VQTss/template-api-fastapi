@@ -17,5 +17,6 @@ uvicorn
 python-decouple
 python-multipart
 pyflakes
-
+numpy
 # Requirements for models
+torch
